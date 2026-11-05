@@ -9,9 +9,8 @@ A fictional British technology company, founded in 2026. Corporate satire in the
 - Static, responsive single-page website
 - HTML, CSS and a tiny amount of JavaScript
 - No dependencies, API keys, build tools or database
-- Product teasers: Poo Clock 2, Meeting², ProcrastinAI
 - Fictional CEO Graham P. Scale
-- Fictional HQ at the real Vale Road Industrial Estate in Spilsby (no claim to a particular unit)
+- Fictional HQ in Peterborough, Cambridgeshire (no real office or premises claimed)
 - Clear fiction/satire disclosure in the footer
 
 ## Run
@@ -29,7 +28,7 @@ Open `index.html` in a browser.
 
 - Replace the placeholder `enquiries@bramwellbell.company` link with a real working mailbox or contact method.
 - Confirm the domain's DNS and SSL certificate.
-- Add links to product subdomains when those demos launch.
+- Add product portfolio links when the first demo launches.
 - Keep the fiction disclosure; the company and its headquarters are fictional.
 
 ## Creative direction
