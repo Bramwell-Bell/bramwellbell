@@ -21,5 +21,6 @@ jobs:
           git add assets/
           if ! git diff --cached --quiet; then
             git commit -m "Add local team headshot assets"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
